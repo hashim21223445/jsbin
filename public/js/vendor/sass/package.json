@@ -45,7 +45,7 @@
   ],
   "devDependencies": {
     "jshint-stylish": "~0.1.5",
-    "chai": "~1.8.1",
+    "chai": "~1.10.0",
     "grunt-mocha-test": "~0.8.1",
     "grunt": "~0.4.2",
     "grunt-contrib-jshint": "~0.8.0",
