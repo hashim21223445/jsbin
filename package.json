@@ -47,7 +47,7 @@
     "debug": "^2.6.7",
     "denodeify": "^1.2.1",
     "dropbox": "~0.10.2",
-    "express": "^4.17.3",
+    "express": "^4.22.0",
     "express-hbs": "^1.0.5",
     "express-session": "^1.18.1",
     "feature-gateway": "0.0.4",
@@ -63,7 +63,7 @@
     "morgan": "^1.9.1",
     "ms": "^2.0.0",
     "mysql": "^2.12.0",
-    "nodemailer": "^6.4.16",
+    "nodemailer": "^7.0.11",
     "on-headers": "^1.1.0",
     "passport": "~0.6.0",
     "passport-dropbox-oauth2": "~1.0.0",
@@ -95,7 +95,7 @@
     "proxyquire": "^1.7.10",
     "should": "~1.2.2",
     "sinon": "~1.7.3",
-    "tap": "^18.0.0",
+    "tap": "^20.0.0",
     "tap-only": "0.0.5"
   },
   "engines": {
